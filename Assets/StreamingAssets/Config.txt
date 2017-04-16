@@ -1,0 +1,14 @@
+﻿#项目默认路径
+defalutDirPath=C:\Users\Administrator\Desktop\language
+
+#多语言,第一个为主体语言
+language41=繁体中文cn_tw
+language40=简体中文cn
+language10=英语en
+
+#智能过滤的文件类型
+smartFilterFileType=meta，png
+
+#智能过滤的文件
+smartFilterFileName=filename.txt
+
