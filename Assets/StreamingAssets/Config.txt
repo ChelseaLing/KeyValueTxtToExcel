@@ -7,7 +7,7 @@ language40=简体中文cn
 language10=英语en
 
 #智能过滤的文件类型
-smartFilterFileType=meta，png
+smartFilterFileType=meta
 
 #智能过滤的文件
 smartFilterFileName=filename.txt
