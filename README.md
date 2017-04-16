@@ -1,0 +1,2 @@
+# KeyValueTxtToExcel
+将多语言键对值文本转化成Excel表格
